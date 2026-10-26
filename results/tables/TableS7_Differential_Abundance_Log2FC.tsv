@@ -1,0 +1,519 @@
+Taxon_Raw	Taxon_Clean	Healthy_Root_Pct	Disease_Root_Pct	Mean_Relative_Abundance_Pct	Log2FC	Enriched_In	Comparison	Healthy_Soil_Pct	Disease_Soil_Pct
+d__Bacteria;__;__;__;__;__	Unclassified Genus	4.6875	0.0	2.34375	-8.875749351420055	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Lysobacter	Lysobacter	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Chloroflexi;__;__;__;__	Uncl. Chloroflexi	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__uncultured;g__uncultured	Uncl. Vicinamibacterales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;__;__;__	Uncl. Alphaproteobacteria	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Hyphomicrobiaceae;g__Pedomicrobium	Pedomicrobium	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__PLTA13;f__PLTA13;g__PLTA13	PLTA13	3.125	0.0	1.5625	-8.29232163280204	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Rhodocyclaceae;g__Thauera	Thauera	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Propionibacteriales;f__Nocardioidaceae;__	Uncl. Nocardioidaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Chloroflexi;c__Chloroflexia;o__Chloroflexales;f__Roseiflexaceae;g__uncultured	Uncl. Roseiflexaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Chloroflexi;c__KD4-96;o__KD4-96;f__KD4-96;g__KD4-96	KD4-96	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Chthoniobacterales;f__Chthoniobacteraceae;g__Chthoniobacter	Chthoniobacter	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Tistrellales;f__Geminicoccaceae;__	Uncl. Geminicoccaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Thermoleophilia;o__Gaiellales;__;__	Uncl. Gaiellales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bdellovibrionota;c__Bdellovibrionia;o__Bdellovibrionales;f__Bdellovibrionaceae;g__OM27_clade	OM27_clade	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Permianibacter	Permianibacter	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Methylomirabilota;c__Methylomirabilia;o__Rokubacteriales;f__Rokubacteriales;g__Rokubacteriales	Rokubacteriales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Xanthobacteraceae;__	Uncl. Xanthobacteraceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Verrucomicrobiota;c__Chlamydiae;o__Chlamydiales;__;__	Uncl. Chlamydiales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Myxococcota;c__Myxococcia;o__Myxococcales;f__Myxococcaceae;__	Uncl. Myxococcaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminococcus	Ruminococcus	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;__;__;__	Uncl. Gammaproteobacteria	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Peptostreptococcales-Tissierellales;f__Peptostreptococcaceae;__	Uncl. Peptostreptococcaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Kosakonia	Kosakonia	0.0	7.792207792207792	3.896103896103896	9.60773861120766	Disease_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Chloroflexi;c__Anaerolineae;o__SBR1031;__;__	Uncl. SBR1031	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Chloroflexi;c__Anaerolineae;o__RBG-13-54-9;f__RBG-13-54-9;g__RBG-13-54-9	RBG-13-54-9	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Beijerinckiaceae;g__Microvirga	Microvirga	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Patescibacteria;c__Parcubacteria;o__Candidatus_Yanofskybacteria;f__Candidatus_Yanofskybacteria;g__Candidatus_Yanofskybacteria	Candidatus_Yanofskybacteria	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Thermoleophilia;o__Gaiellales;f__uncultured;g__uncultured	Uncl. Gaiellales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus	Bacillus	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Peptostreptococcales-Tissierellales;f__Peptostreptococcaceae;g__[Eubacterium]_tenue_group	[Eubacterium]_tenue_group	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Nitrospirota;c__Nitrospiria;o__Nitrospirales;f__Nitrospiraceae;g__Nitrospira	Nitrospira	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;__;__;__;__	Uncl. Actinobacteriota	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;__;__;__	Uncl. Planctomycetes	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Thermoleophilia;o__Gaiellales;f__Gaiellaceae;g__Gaiella	Gaiella	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Chloroflexi;c__Chloroflexia;o__Thermomicrobiales;f__AKYG1722;g__AKYG1722	AKYG1722	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Planctomycetota;c__OM190;o__OM190;f__OM190;g__OM190	OM190	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__SC-I-84;g__SC-I-84	SC-I-84	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;__	Uncl. Lachnospiraceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Nitrosomonadaceae;g__Ellin6067	Ellin6067	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__CCD24;f__CCD24;g__CCD24	CCD24	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Planctomycetales;f__uncultured;g__uncultured	Uncl. Planctomycetales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__Leptolyngbyales;f__Leptolyngbyaceae;g__Leptolyngbya_ANT.L52.2	Leptolyngbya_ANT.L52.2	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__IMCC26256;f__IMCC26256;g__IMCC26256	IMCC26256	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Rhodocyclaceae;g__uncultured	Uncl. Rhodocyclaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Thermoleophilia;o__Solirubrobacterales;f__67-14;g__67-14	67-14	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Labraceae;g__Labrys	Labrys	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Corynebacteriales;f__Corynebacteriaceae;g__Lawsonella	Lawsonella	12.5	0.0	6.25	-10.28886607416582	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__Leptolyngbyales;f__Leptolyngbyaceae;__	Uncl. Leptolyngbyaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas	Pseudomonas	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Gemmatales;f__Gemmataceae;g__Gemmata	Gemmata	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Thermoleophilia;o__Solirubrobacterales;f__Solirubrobacteraceae;g__Solirubrobacter	Solirubrobacter	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Gammaproteobacteria_Incertae_Sedis;f__Unknown_Family;g__Acidibacter	Acidibacter	12.5	0.0	6.25	-10.28886607416582	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Burkholderia-Caballeronia-Paraburkholderia	Burkholderia-Caballeronia-Paraburkholderia	0.0	10.028860028860027	5.014430014430014	9.971379736810775	Disease_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Acidobacteriota;c__Thermoanaerobaculia;o__Thermoanaerobaculales;f__Thermoanaerobaculaceae;g__Subgroup_10	Subgroup_10	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Nitrosomonadaceae;g__mle1-7	mle1-7	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Streptosporangiales;f__Thermomonosporaceae;__	Uncl. Thermomonosporaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Pleomorphomonadaceae;g__Chthonobacter	Chthonobacter	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;__;__	Uncl. Bacillales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Subgroup_17;f__Subgroup_17;g__Subgroup_17	Subgroup_17	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium	Flavobacterium	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Limnochordia;o__Limnochordia;f__Limnochordia;g__Hydrogenispora	Hydrogenispora	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Methyloligellaceae;g__uncultured	Uncl. Methyloligellaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;g__Pir4_lineage	Pir4_lineage	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;__;__	Uncl. Enterobacterales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Chloroflexi;c__JG30-KF-CM66;o__JG30-KF-CM66;f__JG30-KF-CM66;g__JG30-KF-CM66	JG30-KF-CM66	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__uncultured;f__uncultured;g__uncultured	Uncl. Alphaproteobacteria	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__Opitutaceae;__	Uncl. Opitutaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__Vicinamibacteraceae;g__Vicinamibacteraceae	Vicinamibacteraceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Acetobacterales;f__Acetobacteraceae;__	Uncl. Acetobacteraceae	0.0	2.5974025974025974	1.2987012987012987	8.026469549952596	Disease_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Chloroflexi;c__Anaerolineae;__;__;__	Uncl. Anaerolineae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__MB-A2-108;o__MB-A2-108;f__MB-A2-108;g__MB-A2-108	MB-A2-108	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Altererythrobacter	Altererythrobacter	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Planctomycetota;c__Pla4_lineage;o__Pla4_lineage;f__Pla4_lineage;g__Pla4_lineage	Pla4_lineage	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__Sandaracinaceae;g__uncultured	Uncl. Sandaracinaceae	0.0	0.3607503607503607	0.18037518037518036	5.212376191350149	Disease_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Planctomycetota;__;__;__;__	Uncl. Planctomycetota	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Latescibacterota;c__Latescibacterota;o__Latescibacterota;f__Latescibacterota;g__Latescibacterota	Latescibacterota	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Micromonosporales;f__Micromonosporaceae;__	Uncl. Micromonosporaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Xanthobacteraceae;g__uncultured	Uncl. Xanthobacteraceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Chloroflexi;c__Gitt-GS-136;o__Gitt-GS-136;f__Gitt-GS-136;g__Gitt-GS-136	Gitt-GS-136	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Aurantisolimonas	Aurantisolimonas	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Steroidobacterales;f__Steroidobacteraceae;__	Uncl. Steroidobacteraceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Steroidobacterales;f__Steroidobacteraceae;g__Steroidobacteraceae	Steroidobacteraceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__uncultured	Uncl. Saprospiraceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bdellovibrionota;c__Bdellovibrionia;o__Bacteriovoracales;f__Bacteriovoracaceae;g__Peredibacter	Peredibacter	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;__	Uncl. Enterobacteriaceae	0.0	21.5007215007215	10.75036075036075	11.070840200313622	Disease_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__Cyanobacteriales;f__Nostocaceae;__	Uncl. Nostocaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Chloroflexi;c__Chloroflexia;o__Thermomicrobiales;f__JG30-KF-CM45;g__JG30-KF-CM45	JG30-KF-CM45	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Propionibacteriales;f__Nocardioidaceae;g__Marmoricola	Marmoricola	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Propionibacteriales;f__Nocardioidaceae;g__Nocardioides	Nocardioides	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Micrococcales;__;__	Uncl. Micrococcales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Patescibacteria;c__Parcubacteria;o__Parcubacteria;f__Parcubacteria;g__Parcubacteria	Parcubacteria	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__11-24;f__11-24;g__11-24	11-24	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Alicyclobacillales;f__Alicyclobacillaceae;g__Tumebacillus	Tumebacillus	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Microscillaceae;g__Hassallia	Hassallia	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Nitrosomonadaceae;g__MND1	MND1	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Desulfotomaculia;o__Desulfotomaculales;f__Pelotomaculaceae;g__Pelotomaculum	Pelotomaculum	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Gemmatimonadales;f__Gemmatimonadaceae;g__uncultured	Uncl. Gemmatimonadaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;__;__;__;__	Uncl. Proteobacteria	0.0	18.83116883116883	9.415584415584416	10.879672751450638	Disease_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__Vicinamibacteraceae;g__uncultured	Uncl. Vicinamibacteraceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Micrococcales;f__Cellulomonadaceae;g__Cellulomonas	Cellulomonas	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;__	Uncl. Bacillaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Gemmatimonadales;f__Gemmatimonadaceae;g__Gemmatimonas	Gemmatimonas	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Rhodocyclaceae;__	Uncl. Rhodocyclaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Chloroflexi;c__Anaerolineae;o__Anaerolineales;f__Anaerolineaceae;g__uncultured	Uncl. Anaerolineaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Bacilli;__;__;__	Uncl. Bacilli	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Micrococcales;f__Intrasporangiaceae;__	Uncl. Intrasporangiaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__B1-7BS;g__B1-7BS	B1-7BS	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Chthoniobacterales;f__Xiphinematobacteraceae;g__Candidatus_Xiphinematobacter	Candidatus_Xiphinematobacter	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Acidobacteriota;c__Holophagae;o__Subgroup_7;f__Subgroup_7;g__Subgroup_7	Subgroup_7	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;__;__;__;__	Uncl. Firmicutes	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Streptosporangiales;f__Thermomonosporaceae;g__Actinocorallia	Actinocorallia	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Myxococcota;c__Polyangia;o__Haliangiales;f__Haliangiaceae;g__Haliangium	Haliangium	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__NB1-j;c__NB1-j;o__NB1-j;f__NB1-j;g__NB1-j	NB1-j	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;__;__;__	Uncl. Actinobacteria	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Methyloligellaceae;__	Uncl. Methyloligellaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Chloroflexi;c__Anaerolineae;o__Caldilineales;f__Caldilineaceae;g__uncultured	Uncl. Caldilineaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__SAR324_clade(Marine_group_B);c__SAR324_clade(Marine_group_B);o__SAR324_clade(Marine_group_B);f__SAR324_clade(Marine_group_B);g__SAR324_clade(Marine_group_B)	SAR324_clade(Marine_group_B)	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Acidobacteriota;c__Acidobacteriae;o__Acidobacteriales;__;__	Uncl. Acidobacteriales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;g__uncultured	Uncl. Pirellulaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Gemmatales;f__Gemmataceae;g__uncultured	Uncl. Gemmataceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;__;__	Uncl. Burkholderiales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Patescibacteria;c__Saccharimonadia;o__Saccharimonadales;f__Saccharimonadales;g__Saccharimonadales	Saccharimonadales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Tepidisphaerales;f__WD2101_soil_group;g__WD2101_soil_group	WD2101_soil_group	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__uncultured;g__uncultured	Uncl. Rhodospirillales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Myxococcota;c__bacteriap25;o__bacteriap25;f__bacteriap25;g__bacteriap25	bacteriap25	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Elsterales;f__uncultured;g__uncultured	Uncl. Elsterales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Micrococcales;f__Micrococcaceae;__	Uncl. Micrococcaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;__;__;__	Uncl. Acidimicrobiia	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium_sensu_stricto_1	Clostridium_sensu_stricto_1	0.0	7.287157287157287	3.6435786435786435	9.511190740554824	Disease_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__uncultured	Uncl. Chitinophagaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Diplorickettsiales;f__Diplorickettsiaceae;g__uncultured	Uncl. Diplorickettsiaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__TRA3-20;g__TRA3-20	TRA3-20	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;__;__	Uncl. Xanthomonadales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Thermoleophilia;o__uncultured;f__uncultured;g__uncultured	Uncl. Thermoleophilia	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;__	Uncl. Saprospiraceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Arenimonas	Arenimonas	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Myxococcota;c__Myxococcia;o__Myxococcales;f__Myxococcaceae;g__P3OB-42	P3OB-42	4.6875	0.0	2.34375	-8.875749351420055	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Dongiales;f__Dongiaceae;g__Dongia	Dongia	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Terrimonas	Terrimonas	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Sumerlaeota;c__Sumerlaeia;o__uncultured;f__uncultured;g__uncultured	Uncl. Sumerlaeia	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;__;__;__	Uncl. Clostridia	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cellulosilyticum	Cellulosilyticum	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Streptosporangiales;f__Streptosporangiaceae;g__Nonomuraea	Nonomuraea	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Gemmatimonadota;c__AKAU4049;o__AKAU4049;f__AKAU4049;g__AKAU4049	AKAU4049	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Lachnospiraceae_NC2004_group	Lachnospiraceae_NC2004_group	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Caloramatoraceae;g__Fonticella	Fonticella	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__GAL15;c__GAL15;o__GAL15;f__GAL15;g__GAL15	GAL15	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Cyanobacteria;c__Sericytochromatia;o__Sericytochromatia;f__Sericytochromatia;g__Sericytochromatia	Sericytochromatia	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Acidobacteriota;c__Subgroup_22;o__Subgroup_22;f__Subgroup_22;g__Subgroup_22	Subgroup_22	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium_sensu_stricto_8	Clostridium_sensu_stricto_8	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Microscillaceae;__	Uncl. Microscillaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Acidobacteriota;c__Subgroup_11;o__Subgroup_11;f__Subgroup_11;g__Subgroup_11	Subgroup_11	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae;__	Uncl. Clostridiaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Acidobacteriota;c__Holophagae;o__Holophagales;f__Holophagaceae;g__uncultured	Uncl. Holophagaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;__	Uncl. Rhodobacteraceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Actinomarinales;f__uncultured;g__uncultured	Uncl. Actinomarinales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Chloroflexi;c__Chloroflexia;o__Chloroflexales;f__Chloroflexaceae;__	Uncl. Chloroflexaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Fictibacillus	Fictibacillus	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Steroidobacterales;f__Woeseiaceae;g__JTB255_marine_benthic_group	JTB255_marine_benthic_group	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Frankiales;f__Frankiales;g__Frankiales	Frankiales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Myxococcota;c__Polyangia;__;__;__	Uncl. Polyangia	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Planococcaceae;__	Uncl. Planococcaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Thermoleophilia;__;__;__	Uncl. Thermoleophilia	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Micromonosporales;f__Micromonosporaceae;g__Micromonospora	Micromonospora	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__Vicinamibacteraceae;__	Uncl. Vicinamibacteraceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter	Acinetobacter	6.25	0.0	3.125	-9.290018846932618	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;__;__	Uncl. Rhizobiales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Oscillospirales;f__Hungateiclostridiaceae;g__Anaerobacterium	Anaerobacterium	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales;f__Caulobacteraceae;g__Phenylobacterium	Phenylobacterium	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;__	Uncl. Sphingomonadaceae	32.8125	0.0	16.40625	-11.680469413831844	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;__	Uncl. Pirellulaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Microscillaceae;g__Chryseolinea	Chryseolinea	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;__	Uncl. Ruminococcaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bdellovibrionota;c__Oligoflexia;o__0319-6G20;f__0319-6G20;g__0319-6G20	0319-6G20	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Micromonosporales;f__Micromonosporaceae;g__Actinoplanes	Actinoplanes	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Microscillaceae;g__uncultured	Uncl. Microscillaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__uncultured;g__uncultured	Uncl. Enterobacterales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Steroidobacterales;f__Steroidobacteraceae;g__uncultured	Uncl. Steroidobacteraceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Methyloligellaceae;g__Methyloligellaceae	Methyloligellaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Latescibacterota;c__Latescibacteria;o__Latescibacterales;f__Latescibacteraceae;g__Latescibacteraceae	Latescibacteraceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Chloroflexi;c__Ktedonobacteria;o__C0119;f__C0119;g__C0119	C0119	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiales_Incertae_Sedis;g__Nordella	Nordella	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Acidobacteriota;c__Acidobacteriae;o__Bryobacterales;f__Bryobacteraceae;g__Bryobacter	Bryobacter	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Chloroflexi;c__Dehalococcoidia;o__S085;f__S085;g__S085	S085	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Dependentiae;c__Babeliae;o__Babeliales;f__Babeliales;g__Babeliales	Babeliales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Gemmatimonadales;f__Gemmatimonadaceae;__	Uncl. Gemmatimonadaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Acidobacteriota;__;__;__;__	Uncl. Acidobacteriota	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Peptostreptococcales-Tissierellales;__;__	Uncl. Peptostreptococcales-Tissierellales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;g__Pirellula	Pirellula	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Sphingobacteriales;f__Sphingobacteriaceae;g__Solitalea	Solitalea	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Frankiales;f__Sporichthyaceae;g__uncultured	Uncl. Sporichthyaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Lacibacter	Lacibacter	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiaceae;g__Aureimonas	Aureimonas	0.0	0.7936507936507936	0.3968253968253968	6.328496845409894	Disease_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__0319-7L14;f__0319-7L14;g__0319-7L14	0319-7L14	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Corynebacteriales;f__Nocardiaceae;g__Smaragdicoccus	Smaragdicoccus	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Nitrosomonadaceae;__	Uncl. Nitrosomonadaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Dependentiae;c__Babeliae;o__Babeliales;f__Vermiphilaceae;g__Vermiphilaceae	Vermiphilaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Nitrosomonadaceae;g__oc32	oc32	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Dethiobacteria;o__Dethiobacterales;f__Dethiobacteraceae;g__Dethiobacter	Dethiobacter	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;__;__	Uncl. Chitinophagales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__BIrii41;g__BIrii41	BIrii41	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Propionibacteriales;f__Propionibacteriaceae;g__Cutibacterium	Cutibacterium	7.8125	0.0	3.90625	-9.611485943240922	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Acidobacteriota;c__Acidobacteriae;o__Solibacterales;f__Solibacteraceae;g__Candidatus_Solibacter	Candidatus_Solibacter	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Azospirillales;f__Azospirillaceae;g__Skermanella	Skermanella	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Halanaerobiaeota;c__Halanaerobiia;o__Halanaerobiales;f__Halobacteroidaceae;g__uncultured	Uncl. Halobacteroidaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Rhodocyclaceae;g__Azovibrio	Azovibrio	15.625	0.0	7.8125	-10.610563503925041	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__Ilumatobacteraceae;g__uncultured	Uncl. Ilumatobacteraceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Frankiales;f__Sporichthyaceae;g__hgcI_clade	hgcI_clade	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium_sensu_stricto_12	Clostridium_sensu_stricto_12	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Oscillibacter	Oscillibacter	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridia;f__Gracilibacteraceae;g__Lutispora	Lutispora	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Planococcaceae;g__Lysinibacillus	Lysinibacillus	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;__	Uncl. Prevotellaceae	0.0	6.782106782106783	3.3910533910533913	9.407715330174057	Disease_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Brevibacillales;f__Brevibacillaceae;g__Brevibacillus	Brevibacillus	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__Ilumatobacteraceae;__	Uncl. Ilumatobacteraceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Azospirillales;f__uncultured;g__uncultured	Uncl. Azospirillales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Coriobacteriia;o__OPB41;f__OPB41;g__OPB41	OPB41	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Methylomirabilota;c__Methylomirabilia;o__Rokubacteriales;f__WX65;g__WX65	WX65	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Staphylococcales;f__Staphylococcaceae;g__Staphylococcus	Staphylococcus	0.0	0.1443001443001443	0.07215007215007214	3.9476675059924147	Disease_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces	Streptomyces	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Pectobacteriaceae;g__Dickeya	Dickeya	0.0	6.493506493506493	3.2467532467532463	9.345073975111442	Disease_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Gemmatales;f__Gemmataceae;g__Telmatocola	Telmatocola	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Caldicoprobacterales;f__Caldicoprobacteraceae;g__Caldicoprobacter	Caldicoprobacter	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Myxococcota;c__Myxococcia;o__Myxococcales;f__Myxococcaceae;g__Hyalangium	Hyalangium	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Hyphomicrobiaceae;__	Uncl. Hyphomicrobiaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__Elev-16S-573;f__Elev-16S-573;g__Elev-16S-573	Elev-16S-573	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Gemmatimonadota;c__BD2-11_terrestrial_group;o__BD2-11_terrestrial_group;f__BD2-11_terrestrial_group;g__BD2-11_terrestrial_group	BD2-11_terrestrial_group	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Isosphaerales;f__Isosphaeraceae;__	Uncl. Isosphaeraceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Chloroflexi;c__Anaerolineae;o__SBR1031;f__A4b;g__A4b	A4b	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Thermincolales;f__Thermincolaceae;g__Thermincola	Thermincola	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Micromonosporales;f__Micromonosporaceae;g__uncultured	Uncl. Micromonosporaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Fibrobacterota;c__Fibrobacteria;o__Fibrobacterales;f__Fibrobacterales;g__BBMC-4	BBMC-4	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bdellovibrionota;c__Bdellovibrionia;o__Bdellovibrionales;f__Bdellovibrionaceae;g__Bdellovibrio	Bdellovibrio	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Entotheonellaeota;c__Entotheonellia;o__Entotheonellales;f__Entotheonellaceae;g__Entotheonellaceae	Entotheonellaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Tistrellales;f__Geminicoccaceae;g__Candidatus_Alysiosphaera	Candidatus_Alysiosphaera	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;__	Uncl. Burkholderiaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Thermoactinomycetales;f__Thermoactinomycetaceae;g__Laceyella	Laceyella	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Comamonadaceae;__	Uncl. Comamonadaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Corynebacteriales;f__Mycobacteriaceae;g__Mycobacterium	Mycobacterium	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales;f__Caulobacteraceae;__	Uncl. Caulobacteraceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Erwiniaceae;__	Uncl. Erwiniaceae	0.0	8.946608946608947	4.473304473304474	9.806808808004028	Disease_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Spirochaetales;f__Spirochaetaceae;__	Uncl. Spirochaetaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Chloroflexi;c__Anaerolineae;o__Ardenticatenales;f__uncultured;g__uncultured	Uncl. Ardenticatenales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__WPS-2;c__WPS-2;o__WPS-2;f__WPS-2;g__WPS-2	WPS-2	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Sphingomonas	Sphingomonas	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bacteroidota;c__Kryptonia;o__Kryptoniales;f__BSV26;g__BSV26	BSV26	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Beijerinckiaceae;__	Uncl. Beijerinckiaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Acidobacteriota;c__Acidobacteriae;__;__;__	Uncl. Acidobacteriae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Sutterellaceae;g__uncultured	Uncl. Sutterellaceae	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Acidobacteriota;c__Acidobacteriae;o__Subgroup_12;f__Subgroup_12;g__Subgroup_12	Subgroup_12	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__SN8	SN8	0.0	2.741702741702741	1.3708513708513705	8.104180818159813	Disease_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Bdellovibrionota;__;__;__;__	Uncl. Bdellovibrionota	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Propionibacteriales;__;__	Uncl. Propionibacteriales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Firmicutes;c__Negativicutes;o__Veillonellales-Selenomonadales;f__Selenomonadaceae;g__Propionispira	Propionispira	0.0	5.6998556998557	2.84992784992785	9.157310475864918	Disease_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__uncultured;g__uncultured	Uncl. Microtrichales	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Nitrosomonadaceae;g__IS-44	IS-44	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Chloroflexi;c__Chloroflexia;o__Chloroflexales;f__Chloroflexaceae;g__Chloronema	Chloronema	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__Ilumatobacteraceae;g__Ilumatobacter	Ilumatobacter	0.0	0.0	0.0	0.0	Healthy_Root	Disease_Root_vs_Healthy_Root		
+d__Bacteria;__;__;__;__;__	Unclassified Genus			1.69035111295259	-0.6629660823079896	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	2.074301962429497	1.3064002634756833
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Lysobacter	Lysobacter			0.536992541789585	0.00494257381556529	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.5360555633244768	0.5379295202546932
+d__Bacteria;p__Chloroflexi;__;__;__;__	Uncl. Chloroflexi			0.1113497327285559	-1.4542407679766969	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.167808698084184	0.0548907673729278
+d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__uncultured;g__uncultured	Uncl. Vicinamibacterales			2.441395643086982	-0.6082489079777726	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	2.950636274646903	1.9321550115270607
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;__;__;__	Uncl. Alphaproteobacteria			0.47277906896753563	-0.2675071169850197	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.517410152426234	0.4281479855088373
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Hyphomicrobiaceae;g__Pedomicrobium	Pedomicrobium			0.9718920430708992	-7.610127232790459	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	1.9437840861417983	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__PLTA13;f__PLTA13;g__PLTA13	PLTA13			0.809986667528216	-0.7414397477583463	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	1.0161748939542254	0.6037984411022066
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Rhodocyclaceae;g__Thauera	Thauera			0.3225483120501822	-1.1398863336261364	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.4474898615578241	0.1976067625425403
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Propionibacteriales;f__Nocardioidaceae;__	Uncl. Nocardioidaceae			0.5849997669323638	-6.882642479454063	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	1.1699995338647275	0.0
+d__Bacteria;p__Chloroflexi;c__Chloroflexia;o__Chloroflexales;f__Roseiflexaceae;g__uncultured	Uncl. Roseiflexaceae			0.8257786694032783	-0.5847241748635962	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.992868130331422	0.6586892084751345
+d__Bacteria;p__Chloroflexi;c__KD4-96;o__KD4-96;f__KD4-96;g__KD4-96	KD4-96			4.193739574547401	0.5960269393345151	Disease_Soil	Disease_Soil_vs_Healthy_Soil	3.337528550785438	5.049950598309364
+d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Chthoniobacterales;f__Chthoniobacteraceae;g__Chthoniobacter	Chthoniobacter			0.10067657060580235	-0.04883958787441836	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.1025497599403346	0.0988033812712701
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Tistrellales;f__Geminicoccaceae;__	Uncl. Geminicoccaceae			0.0093227054491213	-1.518304032362718	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0186454108982426	0.0
+d__Bacteria;p__Actinobacteriota;c__Thermoleophilia;o__Gaiellales;__;__	Uncl. Gaiellales			0.35639774652943507	0.8479937249322937	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.251713047126276	0.4610824459325941
+d__Bacteria;p__Bdellovibrionota;c__Bdellovibrionia;o__Bdellovibrionales;f__Bdellovibrionaceae;g__OM27_clade	OM27_clade			0.00466135272456065	-0.9502971058077935	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Permianibacter	Permianibacter			0.020976087260523	-2.377184136137638	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.041952174521046	0.0
+d__Bacteria;p__Methylomirabilota;c__Methylomirabilia;o__Rokubacteriales;f__Rokubacteriales;g__Rokubacteriales	Rokubacteriales			0.4532406884234089	0.7490245358799319	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.335617396168368	0.5708639806784499
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Xanthobacteraceae;__	Uncl. Xanthobacteraceae			3.009123227800031	0.3788088110910279	Disease_Soil	Disease_Soil_vs_Healthy_Soil	2.6150188784785344	3.403227577121528
+d__Bacteria;p__Verrucomicrobiota;c__Chlamydiae;o__Chlamydiales;__;__	Uncl. Chlamydiales			0.0302987927096443	-2.8196188412416547	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0605975854192886	0.0
+d__Bacteria;p__Myxococcota;c__Myxococcia;o__Myxococcales;f__Myxococcaceae;__	Uncl. Myxococcaceae			1.3692625120284165	0.46971735419097516	Disease_Soil	Disease_Soil_vs_Healthy_Soil	1.1466927702419245	1.5918322538149083
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminococcus	Ruminococcus			0.02578993566099965	0.5838320285422265	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0186454108982426	0.0329344604237567
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;__;__;__	Uncl. Gammaproteobacteria			0.07736980698299906	0.7225800265178604	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.055936232694728	0.0988033812712701
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Peptostreptococcales-Tissierellales;f__Peptostreptococcaceae;__	Uncl. Peptostreptococcaceae			0.013984058173682	-1.9247884265649549	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.027968116347364	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Kosakonia	Kosakonia			0.0	0.0	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0
+d__Bacteria;p__Chloroflexi;c__Anaerolineae;o__SBR1031;__;__	Uncl. SBR1031			0.03278196474784065	0.010284973514689918	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0326294690719246	0.0329344604237567
+d__Bacteria;p__Chloroflexi;c__Anaerolineae;o__RBG-13-54-9;f__RBG-13-54-9;g__RBG-13-54-9	RBG-13-54-9			0.15354165296828196	2.7382715484990388	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0326294690719246	0.2744538368646393
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Beijerinckiaceae;g__Microvirga	Microvirga			4.166926177974213	0.928986815811965	Disease_Soil	Disease_Soil_vs_Healthy_Soil	2.8667319256048107	5.467120430343616
+d__Bacteria;p__Patescibacteria;c__Parcubacteria;o__Candidatus_Yanofskybacteria;f__Candidatus_Yanofskybacteria;g__Candidatus_Yanofskybacteria	Candidatus_Yanofskybacteria			0.0582669090570083	-3.6614511138383046	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.1165338181140166	0.0
+d__Bacteria;p__Actinobacteriota;c__Thermoleophilia;o__Gaiellales;f__uncultured;g__uncultured	Uncl. Gaiellales			0.8248636953477823	-1.3473528971758857	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	1.1886449447629703	0.4610824459325941
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus	Bacillus			1.9803139647500718	0.29728035030562017	Disease_Soil	Disease_Soil_vs_Healthy_Soil	1.7759753880576143	2.1846525414425293
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Peptostreptococcales-Tissierellales;f__Peptostreptococcaceae;g__[Eubacterium]_tenue_group	[Eubacterium]_tenue_group			0.1981074907938284	-5.344171543442261	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.3962149815876568	0.0
+d__Bacteria;p__Nitrospirota;c__Nitrospiria;o__Nitrospirales;f__Nitrospiraceae;g__Nitrospira	Nitrospira			1.2815245342744956	0.7331652804368018	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.9602386612594976	1.6028104072894938
+d__Bacteria;p__Actinobacteriota;__;__;__;__	Uncl. Actinobacteriota			0.0469185185974387	0.9987205905429696	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.027968116347364	0.0658689208475134
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;__;__;__	Uncl. Planctomycetes			0.00466135272456065	-0.9502971058077935	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0
+d__Bacteria;p__Actinobacteriota;c__Thermoleophilia;o__Gaiellales;f__Gaiellaceae;g__Gaiella	Gaiella			6.266713852308563	0.15743446092906824	Disease_Soil	Disease_Soil_vs_Healthy_Soil	5.924579312916609	6.608848391700516
+d__Bacteria;p__Chloroflexi;c__Chloroflexia;o__Thermomicrobiales;f__AKYG1722;g__AKYG1722	AKYG1722			0.07405891093207055	-0.6697360002602689	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0932270544912133	0.0548907673729278
+d__Bacteria;p__Planctomycetota;c__OM190;o__OM190;f__OM190;g__OM190	OM190			0.0329344604237567	2.9235090171079245	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0658689208475134
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__SC-I-84;g__SC-I-84	SC-I-84			1.8961478655796877	-0.4136071699430736	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	2.16752901692071	1.6247667142386653
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;__	Uncl. Lachnospiraceae			3.0130873477781637	0.06851746238360541	Disease_Soil	Disease_Soil_vs_Healthy_Soil	2.941313569197781	3.0848611263585464
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Nitrosomonadaceae;g__Ellin6067	Ellin6067			1.8615367203165387	0.8062312948004291	Disease_Soil	Disease_Soil_vs_Healthy_Soil	1.3517922901225936	2.371281150510484
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__CCD24;f__CCD24;g__CCD24	CCD24			0.6290868809162341	-0.7767523386061957	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.797091315899874	0.4610824459325941
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Planctomycetales;f__uncultured;g__uncultured	Uncl. Planctomycetales			0.013984058173682	-1.9247884265649549	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.027968116347364	0.0
+d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__Leptolyngbyales;f__Leptolyngbyaceae;g__Leptolyngbya_ANT.L52.2	Leptolyngbya_ANT.L52.2			0.0442828508833263	-3.301085714561079	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0885657017666526	0.0
+d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__IMCC26256;f__IMCC26256;g__IMCC26256	IMCC26256			0.41952174521046004	-6.407766549499142	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.8390434904209201	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Rhodocyclaceae;g__uncultured	Uncl. Rhodocyclaceae			0.01864541089824265	-2.241560212453626	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0372908217964853	0.0
+d__Bacteria;p__Actinobacteriota;c__Thermoleophilia;o__Solirubrobacterales;f__67-14;g__67-14	67-14			0.21675290169207104	-5.47088107756194	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.4335058033841421	0.0
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Labraceae;g__Labrys	Labrys			0.18850179840248696	1.3376315613600902	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.1025497599403346	0.2744538368646393
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Corynebacteriales;f__Corynebacteriaceae;g__Lawsonella	Lawsonella			0.0	0.0	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0
+d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__Leptolyngbyales;f__Leptolyngbyaceae;__	Uncl. Leptolyngbyaceae			0.2760872804804915	-0.4633048851192633	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.3216333379946861	0.230541222966297
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas	Pseudomonas			0.1305178762876987	-4.760411266249124	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.2610357525753974	0.0
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Gemmatales;f__Gemmataceae;g__Gemmata	Gemmata			0.1317378416950269	4.773340653637547	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.2634756833900538
+d__Bacteria;p__Actinobacteriota;c__Thermoleophilia;o__Solirubrobacterales;f__Solirubrobacteraceae;g__Solirubrobacter	Solirubrobacter			0.3412589685815769	-3.588646100416926	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.6386053232648115	0.0439126138983423
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Gammaproteobacteria_Incertae_Sedis;f__Unknown_Family;g__Acidibacter	Acidibacter			0.2214142544166317	-5.500892884014847	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.4428285088332634	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Burkholderia-Caballeronia-Paraburkholderia	Burkholderia-Caballeronia-Paraburkholderia			0.0	0.0	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0
+d__Bacteria;p__Acidobacteriota;c__Thermoanaerobaculia;o__Thermoanaerobaculales;f__Thermoanaerobaculaceae;g__Subgroup_10	Subgroup_10			0.3449401016174894	-6.129036095531501	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.6898802032349788	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Nitrosomonadaceae;g__mle1-7	mle1-7			0.3659161888780124	-6.213021331464692	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.7318323777560248	0.0
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Streptosporangiales;f__Thermomonosporaceae;__	Uncl. Thermomonosporaceae			0.3897244483477879	6.302773974183668	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.7794488966955758
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Pleomorphomonadaceae;g__Chthonobacter	Chthonobacter			0.174800727171025	-5.168326950466698	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.34960145434205	0.0
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;__;__	Uncl. Bacillales			1.0978153474585575	7.785047439809171	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	2.195630694917115
+d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Subgroup_17;f__Subgroup_17;g__Subgroup_17	Subgroup_17			0.7714538759147905	-7.278828320896717	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	1.542907751829581	0.0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium	Flavobacterium			0.7701041868368425	1.8893250249664149	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.3216333379946861	1.2185750356789988
+d__Bacteria;p__Firmicutes;c__Limnochordia;o__Limnochordia;f__Limnochordia;g__Hydrogenispora	Hydrogenispora			0.30080974641007907	-3.752570363477247	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.5686850323964014	0.0329344604237567
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Methyloligellaceae;g__uncultured	Uncl. Methyloligellaceae			1.1838318639581777	-0.10180377433454885	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	1.2259357665594557	1.1417279613568998
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;g__Pir4_lineage	Pir4_lineage			0.1375099053745397	-4.832990294431938	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.2750198107490794	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;__;__	Uncl. Enterobacterales			0.26497863573960195	4.454841635212456	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.013984058173682	0.5159732133055219
+d__Bacteria;p__Chloroflexi;c__JG30-KF-CM66;o__JG30-KF-CM66;f__JG30-KF-CM66;g__JG30-KF-CM66	JG30-KF-CM66			0.42374761531688465	-1.2922042534000837	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.6059758541928867	0.2415193764408826
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__uncultured;f__uncultured;g__uncultured	Uncl. Alphaproteobacteria			0.7107478036388098	-0.25300321921739244	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.7737845522770708	0.6477110550005489
+d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__Opitutaceae;__	Uncl. Opitutaceae			0.00466135272456065	-0.9502971058077935	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0
+d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__Vicinamibacteraceae;g__Vicinamibacteraceae	Vicinamibacteraceae			1.4378975918563461	0.08801624406742717	Disease_Soil	Disease_Soil_vs_Healthy_Soil	1.3937444646436397	1.4820507190690526
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Acetobacterales;f__Acetobacteraceae;__	Uncl. Acetobacteraceae			0.104880436302615	-4.457862638939154	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.20976087260523	0.0
+d__Bacteria;p__Chloroflexi;c__Anaerolineae;__;__;__	Uncl. Anaerolineae			0.06691438616931356	-1.9311996180569928	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.111872465389456	0.0219563069491711
+d__Bacteria;p__Actinobacteriota;c__MB-A2-108;o__MB-A2-108;f__MB-A2-108;g__MB-A2-108	MB-A2-108			3.321543114797972	0.5331132915958293	Disease_Soil	Disease_Soil_vs_Healthy_Soil	2.7129072856943086	3.930178943901636
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Altererythrobacter	Altererythrobacter			0.5642201841669808	0.7681636287677066	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.4148603924858994	0.7135799758480623
+d__Bacteria;p__Planctomycetota;c__Pla4_lineage;o__Pla4_lineage;f__Pla4_lineage;g__Pla4_lineage	Pla4_lineage			0.1495555285805374	2.213085130024367	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0466135272456066	0.2524975299154682
+d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__Sandaracinaceae;g__uncultured	Uncl. Sandaracinaceae			0.1654780217219037	-5.091513851751784	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.3309560434438074	0.0
+d__Bacteria;p__Planctomycetota;__;__;__;__	Uncl. Planctomycetota			0.08819546478166859	-0.01087914995875543	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0885657017666526	0.0878252277966846
+d__Bacteria;p__Latescibacterota;c__Latescibacterota;o__Latescibacterota;f__Latescibacterota;g__Latescibacterota	Latescibacterota			0.30307517713920734	-1.1272579257232078	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.41952174521046	0.1866286090679547
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Micromonosporales;f__Micromonosporaceae;__	Uncl. Micromonosporaceae			0.524402181513075	-6.726292234661381	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	1.04880436302615	0.0
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Xanthobacteraceae;g__uncultured	Uncl. Xanthobacteraceae			1.03294788311362	0.6775974738448189	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.7924299631753136	1.2734658030519268
+d__Bacteria;p__Chloroflexi;c__Gitt-GS-136;o__Gitt-GS-136;f__Gitt-GS-136;g__Gitt-GS-136	Gitt-GS-136			1.0254543581798068	-1.6363615364269406	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	1.556891810003263	0.4940169063563508
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Aurantisolimonas	Aurantisolimonas			0.09880338127127015	4.375781533417864	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.1976067625425403
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Steroidobacterales;f__Steroidobacteraceae;__	Uncl. Steroidobacteraceae			0.6020337386243663	0.2678651073346992	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.5453782687735981	0.6586892084751345
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Steroidobacterales;f__Steroidobacteraceae;g__Steroidobacteraceae	Steroidobacteraceae			0.020976087260523	-2.377184136137638	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.041952174521046	0.0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__uncultured	Uncl. Saprospiraceae			0.021128582936439003	1.1518389550971513	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0329344604237567
+d__Bacteria;p__Bdellovibrionota;c__Bdellovibrionia;o__Bacteriovoracales;f__Bacteriovoracaceae;g__Peredibacter	Peredibacter			0.06525893814384935	-3.812681772601004	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.1305178762876987	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;__	Uncl. Enterobacteriaceae			0.0	0.0	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0
+d__Bacteria;p__Cyanobacteria;c__Cyanobacteriia;o__Cyanobacteriales;f__Nostocaceae;__	Uncl. Nostocaceae			0.05360555633244765	-3.551037451563171	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.1072111126648953	0.0
+d__Bacteria;p__Chloroflexi;c__Chloroflexia;o__Thermomicrobiales;f__JG30-KF-CM45;g__JG30-KF-CM45	JG30-KF-CM45			0.2381864759803421	-1.832731912889578	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.3775695706894141	0.0988033812712701
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Propionibacteriales;f__Nocardioidaceae;g__Marmoricola	Marmoricola			2.9341061015889247	0.7104877126951933	Disease_Soil	Disease_Soil_vs_Healthy_Soil	2.2234652496154386	3.644746953562411
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Propionibacteriales;f__Nocardioidaceae;g__Nocardioides	Nocardioides			1.541319084628637	1.2486778417177113	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.9089637812893302	2.173674387967944
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Micrococcales;__;__	Uncl. Micrococcales			1.659879355348786	6.121465347415928	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0372908217964853	3.282467888901087
+d__Bacteria;p__Patescibacteria;c__Parcubacteria;o__Parcubacteria;f__Parcubacteria;g__Parcubacteria	Parcubacteria			0.006992029086841	-1.2620757876804627	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.013984058173682	0.0
+d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__11-24;f__11-24;g__11-24	11-24			0.23539831259031366	-5.587354864371859	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.4707966251806273	0.0
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Alicyclobacillales;f__Alicyclobacillaceae;g__Tumebacillus	Tumebacillus			1.382636587498434	0.16064990241801785	Disease_Soil	Disease_Soil_vs_Healthy_Soil	1.3051787628769869	1.4600944121198811
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Microscillaceae;g__Hassallia	Hassallia			0.0093227054491213	-1.518304032362718	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0186454108982426	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Nitrosomonadaceae;g__MND1	MND1			0.6751124298677887	-0.022932697023189234	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.6805574977858575	0.66966736194972
+d__Bacteria;p__Firmicutes;c__Desulfotomaculia;o__Desulfotomaculales;f__Pelotomaculaceae;g__Pelotomaculum	Pelotomaculum			0.10021908357805435	-4.395324484750958	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.2004381671561087	0.0
+d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Gemmatimonadales;f__Gemmatimonadaceae;g__uncultured	Uncl. Gemmatimonadaceae			0.5288677973381798	-0.3648923241942055	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.5966531487437654	0.4610824459325941
+d__Bacteria;p__Proteobacteria;__;__;__;__	Uncl. Proteobacteria			0.017970182561426552	0.4140249042534969	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.013984058173682	0.0219563069491711
+d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__Vicinamibacteraceae;g__uncultured	Uncl. Vicinamibacteraceae			0.6481677744326128	-2.24308746232821	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	1.076772479373514	0.2195630694917114
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Micrococcales;f__Cellulomonadaceae;g__Cellulomonas	Cellulomonas			0.46415359626484254	1.9798193802687627	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.181792756257866	0.746514436271819
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;__	Uncl. Bacillaceae			0.7264957966946479	-5.494861160868269	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	1.4310352864401248	0.0219563069491711
+d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Gemmatimonadales;f__Gemmatimonadaceae;g__Gemmatimonas	Gemmatimonas			0.0302987927096443	-2.8196188412416547	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0605975854192886	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Rhodocyclaceae;__	Uncl. Rhodocyclaceae			1.3299240008118707	-0.027016428587475685	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	1.3424695846734722	1.317378416950269
+d__Bacteria;p__Chloroflexi;c__Anaerolineae;o__Anaerolineales;f__Anaerolineaceae;g__uncultured	Uncl. Anaerolineaceae			0.4042092347727579	-0.1392463414350859	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.4241830979350207	0.3842353716104951
+d__Bacteria;p__Firmicutes;c__Bacilli;__;__;__	Uncl. Bacilli			0.076847074322099	4.032930847530989	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.153694148644198
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Micrococcales;f__Intrasporangiaceae;__	Uncl. Intrasporangiaceae			2.1658538672726864	1.4264737585392622	Disease_Soil	Disease_Soil_vs_Healthy_Soil	1.1699995338647275	3.1617082006806454
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__B1-7BS;g__B1-7BS	B1-7BS			0.0233067636228033	-2.501146812039961	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0466135272456066	0.0
+d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Chthoniobacterales;f__Xiphinematobacteraceae;g__Candidatus_Xiphinematobacter	Candidatus_Xiphinematobacter			0.5366223048046009	0.4747305593786375	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.4474898615578241	0.6257547480513778
+d__Bacteria;p__Acidobacteriota;c__Holophagae;o__Subgroup_7;f__Subgroup_7;g__Subgroup_7	Subgroup_7			0.34027874889292875	-6.10968963727369	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.6805574977858575	0.0
+d__Bacteria;p__Firmicutes;__;__;__;__	Uncl. Firmicutes			0.27234090181142695	1.7918952068137373	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.1165338181140166	0.4281479855088373
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Streptosporangiales;f__Thermomonosporaceae;g__Actinocorallia	Actinocorallia			0.1864541089824267	-5.25892671848602	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.3729082179648534	0.0
+d__Bacteria;p__Myxococcota;c__Polyangia;o__Haliangiales;f__Haliangiaceae;g__Haliangium	Haliangium			0.7175873370497349	-0.4104626989989509	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.8203980795226775	0.6147765945767922
+d__Bacteria;p__NB1-j;c__NB1-j;o__NB1-j;f__NB1-j;g__NB1-j	NB1-j			0.15918322538149085	5.0372348292187565	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.3183664507629817
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;__;__;__	Uncl. Actinobacteria			0.7849379734328686	7.303667471045526	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	1.5698759468657373
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Methyloligellaceae;__	Uncl. Methyloligellaceae			0.006992029086841	-1.2620757876804627	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.013984058173682	0.0
+d__Bacteria;p__Chloroflexi;c__Anaerolineae;o__Caldilineales;f__Caldilineaceae;g__uncultured	Uncl. Caldilineaceae			0.06037984411022065	3.7088459371896128	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.1207596882204413
+d__Bacteria;p__SAR324_clade(Marine_group_B);c__SAR324_clade(Marine_group_B);o__SAR324_clade(Marine_group_B);f__SAR324_clade(Marine_group_B);g__SAR324_clade(Marine_group_B)	SAR324_clade(Marine_group_B)			0.0344374127733049	1.4359374391908153	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.013984058173682	0.0548907673729278
+d__Bacteria;p__Acidobacteriota;c__Acidobacteriae;o__Acidobacteriales;__;__	Uncl. Acidobacteriales			0.01097815347458555	1.6761006919339598	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0219563069491711
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;g__uncultured	Uncl. Pirellulaceae			0.01864541089824265	-2.241560212453626	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0372908217964853	0.0
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Gemmatales;f__Gemmataceae;g__uncultured	Uncl. Gemmataceae			0.44448395685872766	-4.778423339028472	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.8670116067682843	0.0219563069491711
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;__;__	Uncl. Burkholderiales			0.07225096723069035	-3.949552996579272	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.1445019344613807	0.0
+d__Bacteria;p__Patescibacteria;c__Saccharimonadia;o__Saccharimonadales;f__Saccharimonadales;g__Saccharimonadales	Saccharimonadales			0.0439126138983423	3.2902065646023235	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0878252277966846
+d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Tepidisphaerales;f__WD2101_soil_group;g__WD2101_soil_group	WD2101_soil_group			0.1751929685656211	1.2827639939435937	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.097888407215774	0.2524975299154682
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__uncultured;g__uncultured	Uncl. Rhodospirillales			0.013984058173682	-1.9247884265649549	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.027968116347364	0.0
+d__Bacteria;p__Myxococcota;c__bacteriap25;o__bacteriap25;f__bacteriap25;g__bacteriap25	bacteriap25			0.062928261781569	-3.7640119374897485	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.125856523563138	0.0
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Elsterales;f__uncultured;g__uncultured	Uncl. Elsterales			0.111872465389456	-4.546863172531802	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.223744930778912	0.0
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Micrococcales;f__Micrococcaceae;__	Uncl. Micrococcaceae			0.202768843518389	-5.376907422509737	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.405537687036778	0.0
+d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;__;__;__	Uncl. Acidimicrobiia			0.118864494476297	-4.63069079581342	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.237728988952594	0.0
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium_sensu_stricto_1	Clostridium_sensu_stricto_1			1.193677302068199	-0.25678712076184557	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	1.3005174101524262	1.0868371939839718
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__uncultured	Uncl. Chitinophagaceae			0.03210673641102455	1.7477161210634848	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0548907673729278
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Diplorickettsiales;f__Diplorickettsiaceae;g__uncultured	Uncl. Diplorickettsiaceae			0.00466135272456065	-0.9502971058077935	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__TRA3-20;g__TRA3-20	TRA3-20			0.2680277816622384	-5.7709758534577515	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.5360555633244768	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;__;__	Uncl. Xanthomonadales			0.0163147345359623	-2.0918510873902543	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0326294690719246	0.0
+d__Bacteria;p__Actinobacteriota;c__Thermoleophilia;o__uncultured;f__uncultured;g__uncultured	Uncl. Thermoleophilia			0.07458164359297065	-3.9924356951982967	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.1491632871859413	0.0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;__	Uncl. Saprospiraceae			0.01097815347458555	1.6761006919339598	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0219563069491711
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Arenimonas	Arenimonas			0.2743013411887233	3.625066335502664	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0326294690719246	0.5159732133055219
+d__Bacteria;p__Myxococcota;c__Myxococcia;o__Myxococcales;f__Myxococcaceae;g__P3OB-42	P3OB-42			0.02578993566099965	0.5838320285422265	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0186454108982426	0.0329344604237567
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Dongiales;f__Dongiaceae;g__Dongia	Dongia			0.7711276477490305	-0.009814318517596555	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.7737845522770708	0.7684707432209902
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Terrimonas	Terrimonas			0.0878252277966846	4.214516950513562	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.1756504555933692
+d__Bacteria;p__Sumerlaeota;c__Sumerlaeia;o__uncultured;f__uncultured;g__uncultured	Uncl. Sumerlaeia			0.01646723021187835	2.1021360609049444	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0329344604237567
+d__Bacteria;p__Firmicutes;c__Clostridia;__;__;__	Uncl. Clostridia			0.07037777789615805	1.0664673505171471	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.041952174521046	0.0988033812712701
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cellulosilyticum	Cellulosilyticum			0.21209154896751034	-5.440231660085132	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.4241830979350207	0.0
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Streptosporangiales;f__Streptosporangiaceae;g__Nonomuraea	Nonomuraea			1.2181607898747906	1.6230821121353873	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.5919917960192047	1.8443297837303765
+d__Bacteria;p__Gemmatimonadota;c__AKAU4049;o__AKAU4049;f__AKAU4049;g__AKAU4049	AKAU4049			0.14820507190690524	4.937392153859236	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.2964101438138105
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Lachnospiraceae_NC2004_group	Lachnospiraceae_NC2004_group			0.006992029086841	-1.2620757876804627	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.013984058173682	0.0
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Caloramatoraceae;g__Fonticella	Fonticella			0.6917321557555831	0.18034879043746618	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.6479280287139327	0.7355362827972335
+d__Bacteria;p__GAL15;c__GAL15;o__GAL15;f__GAL15;g__GAL15	GAL15			0.041952174521046	-3.2311919757295615	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.083904349042092	0.0
+d__Bacteria;p__Cyanobacteria;c__Sericytochromatia;o__Sericytochromatia;f__Sericytochromatia;g__Sericytochromatia	Sericytochromatia			0.0329344604237567	2.9235090171079245	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0658689208475134
+d__Bacteria;p__Acidobacteriota;c__Subgroup_22;o__Subgroup_22;f__Subgroup_22;g__Subgroup_22	Subgroup_22			0.1043577036417149	-1.3360672286780373	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.153824639910502	0.0548907673729278
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium_sensu_stricto_8	Clostridium_sensu_stricto_8			0.33561739616836805	-6.0900802137703245	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.6712347923367361	0.0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Microscillaceae;__	Uncl. Microscillaceae			0.1152706114831485	4.588212253218265	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.230541222966297
+d__Bacteria;p__Acidobacteriota;c__Subgroup_11;o__Subgroup_11;f__Subgroup_11;g__Subgroup_11	Subgroup_11			0.10721111266489534	-4.488143653121476	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.2144222253297907	0.0
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae;__	Uncl. Clostridiaceae			0.0093227054491213	-1.518304032362718	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0186454108982426	0.0
+d__Bacteria;p__Acidobacteriota;c__Holophagae;o__Holophagales;f__Holophagaceae;g__uncultured	Uncl. Holophagaceae			0.0582669090570083	-3.6614511138383046	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.1165338181140166	0.0
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;__	Uncl. Rhodobacteraceae			0.2983265743718827	-5.922799992569386	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.5966531487437654	0.0
+d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Actinomarinales;f__uncultured;g__uncultured	Uncl. Actinomarinales			0.017970182561426552	0.4140249042534969	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.013984058173682	0.0219563069491711
+d__Bacteria;p__Chloroflexi;c__Chloroflexia;o__Chloroflexales;f__Chloroflexaceae;__	Uncl. Chloroflexaceae			0.076912319955251	-4.034080455549315	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.153824639910502	0.0
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Fictibacillus	Fictibacillus			1.56124970656736	1.4336128212104895	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.8390434904209201	2.2834559227138
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Steroidobacterales;f__Woeseiaceae;g__JTB255_marine_benthic_group	JTB255_marine_benthic_group			0.0442828508833263	-3.301085714561079	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0885657017666526	0.0
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Frankiales;f__Frankiales;g__Frankiales	Frankiales			0.09331430453397735	4.297401341070755	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.1866286090679547
+d__Bacteria;p__Myxococcota;c__Polyangia;__;__;__	Uncl. Polyangia			0.01097815347458555	1.6761006919339598	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0219563069491711
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Planococcaceae;__	Uncl. Planococcaceae			0.5179116482732062	1.5673904417179736	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.2563743998508367	0.7794488966955758
+d__Bacteria;p__Actinobacteriota;c__Thermoleophilia;__;__;__	Uncl. Thermoleophilia			0.00466135272456065	-0.9502971058077935	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Micromonosporales;f__Micromonosporaceae;g__Micromonospora	Micromonospora			1.1952895088701232	1.0155345891452312	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.7877686104507527	1.6028104072894938
+d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Vicinamibacterales;f__Vicinamibacteraceae;__	Uncl. Vicinamibacteraceae			0.03262946907192465	-2.9118629340322886	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0652589381438493	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter	Acinetobacter			0.2284062835034727	-5.544771495081196	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.4568125670069454	0.0
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;__;__	Uncl. Rhizobiales			0.06737187319706164	2.44677014950915	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.013984058173682	0.1207596882204413
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Oscillospirales;f__Hungateiclostridiaceae;g__Anaerobacterium	Anaerobacterium			0.0442828508833263	-3.301085714561079	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0885657017666526	0.0
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales;f__Caulobacteraceae;g__Phenylobacterium	Phenylobacterium			0.13517922901225934	-4.809200689449796	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.2703584580245187	0.0
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;__	Uncl. Sphingomonadaceae			0.020976087260523	-2.377184136137638	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.041952174521046	0.0
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;__	Uncl. Pirellulaceae			0.02563743998508365	-2.615295753035583	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0512748799701673	0.0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Microscillaceae;g__Chryseolinea	Chryseolinea			0.09555773085349364	-4.329952094832527	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.1911154617069873	0.0
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;__	Uncl. Ruminococcaceae			0.00466135272456065	-0.9502971058077935	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0
+d__Bacteria;p__Bdellovibrionota;c__Oligoflexia;o__0319-6G20;f__0319-6G20;g__0319-6G20	0319-6G20			0.00466135272456065	-0.9502971058077935	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Micromonosporales;f__Micromonosporaceae;g__Actinoplanes	Actinoplanes			0.1864541089824267	-5.25892671848602	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.3729082179648534	0.0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Microscillaceae;g__uncultured	Uncl. Microscillaceae			0.0329344604237567	2.9235090171079245	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0658689208475134
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__uncultured;g__uncultured	Uncl. Enterobacterales			0.02195630694917115	2.430622858868888	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0439126138983423
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Steroidobacterales;f__Steroidobacteraceae;g__uncultured	Uncl. Steroidobacteraceae			0.23539831259031366	-5.587354864371859	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.4707966251806273	0.0
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Methyloligellaceae;g__Methyloligellaceae	Methyloligellaceae			1.6687438061744748	0.593040862421512	Disease_Soil	Disease_Soil_vs_Healthy_Soil	1.32848552649979	2.00900208584916
+d__Bacteria;p__Latescibacterota;c__Latescibacteria;o__Latescibacterales;f__Latescibacteraceae;g__Latescibacteraceae	Latescibacteraceae			0.2144222253297907	-5.455637758956236	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.4288444506595814	0.0
+d__Bacteria;p__Chloroflexi;c__Ktedonobacteria;o__C0119;f__C0119;g__C0119	C0119			0.0266176596737318	1.480325753061095	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0439126138983423
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiales_Incertae_Sedis;g__Nordella	Nordella			0.090896378128933	-4.261476327713676	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.181792756257866	0.0
+d__Bacteria;p__Acidobacteriota;c__Acidobacteriae;o__Bryobacterales;f__Bryobacteraceae;g__Bryobacter	Bryobacter			0.17157708116286055	-0.46254521480570976	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.2004381671561087	0.1427159951696124
+d__Bacteria;p__Chloroflexi;c__Dehalococcoidia;o__S085;f__S085;g__S085	S085			0.22006379774299953	-2.9135486845733736	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.3962149815876568	0.0439126138983423
+d__Bacteria;p__Dependentiae;c__Babeliae;o__Babeliales;f__Babeliales;g__Babeliales	Babeliales			0.00466135272456065	-0.9502971058077935	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0
+d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__Gemmatimonadales;f__Gemmatimonadaceae;__	Uncl. Gemmatimonadaceae			0.09880338127127015	4.375781533417864	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.1976067625425403
+d__Bacteria;p__Acidobacteriota;__;__;__;__	Uncl. Acidobacteriota			0.020300858923706852	0.15779665957124173	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0186454108982426	0.0219563069491711
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Peptostreptococcales-Tissierellales;__;__	Uncl. Peptostreptococcales-Tissierellales			0.02195630694917115	2.430622858868888	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0439126138983423
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Pirellulales;f__Pirellulaceae;g__Pirellula	Pirellula			0.02563743998508365	-2.615295753035583	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0512748799701673	0.0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Sphingobacteriales;f__Sphingobacteriaceae;g__Solitalea	Solitalea			0.048944203607887	-3.431467948120734	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.097888407215774	0.0
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Frankiales;f__Sporichthyaceae;g__uncultured	Uncl. Sporichthyaceae			0.32862536708152706	-6.060157082624877	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.6572507341630541	0.0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Chitinophagaceae;g__Lacibacter	Lacibacter			0.01646723021187835	2.1021360609049444	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0329344604237567
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiaceae;g__Aureimonas	Aureimonas			0.0	0.0	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__0319-7L14;f__0319-7L14;g__0319-7L14	0319-7L14			0.04940169063563505	3.443651486654785	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0988033812712701
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Corynebacteriales;f__Nocardiaceae;g__Smaragdicoccus	Smaragdicoccus			0.0336096887605728	0.6948076829463987	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0233067636228033	0.0439126138983423
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Nitrosomonadaceae;__	Uncl. Nitrosomonadaceae			0.0384235371610495	3.118477248681278	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.076847074322099
+d__Bacteria;p__Dependentiae;c__Babeliae;o__Babeliales;f__Vermiphilaceae;g__Vermiphilaceae	Vermiphilaceae			0.00466135272456065	-0.9502971058077935	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Nitrosomonadaceae;g__oc32	oc32			0.09322705449121335	-4.296120438029217	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.1864541089824267	0.0
+d__Bacteria;p__Firmicutes;c__Dethiobacteria;o__Dethiobacterales;f__Dethiobacteraceae;g__Dethiobacter	Dethiobacter			0.048944203607887	-3.431467948120734	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.097888407215774	0.0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;__;__	Uncl. Chitinophagales			0.0163147345359623	-2.0918510873902543	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0326294690719246	0.0
+d__Bacteria;p__Myxococcota;c__Polyangia;o__Polyangiales;f__BIrii41;g__BIrii41	BIrii41			0.006992029086841	-1.2620757876804627	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.013984058173682	0.0
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Propionibacteriales;f__Propionibacteriaceae;g__Cutibacterium	Cutibacterium			0.0	0.0	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0
+d__Bacteria;p__Acidobacteriota;c__Acidobacteriae;o__Solibacterales;f__Solibacteraceae;g__Candidatus_Solibacter	Candidatus_Solibacter			0.00466135272456065	-0.9502971058077935	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Azospirillales;f__Azospirillaceae;g__Skermanella	Skermanella			0.006992029086841	-1.2620757876804627	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.013984058173682	0.0
+d__Bacteria;p__Halanaerobiaeota;c__Halanaerobiia;o__Halanaerobiales;f__Halobacteroidaceae;g__uncultured	Uncl. Halobacteroidaceae			0.006992029086841	-1.2620757876804627	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.013984058173682	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Rhodocyclaceae;g__Azovibrio	Azovibrio			0.0	0.0	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0
+d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__Ilumatobacteraceae;g__uncultured	Uncl. Ilumatobacteraceae			0.01097815347458555	1.6761006919339598	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0219563069491711
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Frankiales;f__Sporichthyaceae;g__hgcI_clade	hgcI_clade			0.01097815347458555	1.6761006919339598	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0219563069491711
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium_sensu_stricto_12	Clostridium_sensu_stricto_12			0.0384235371610495	3.118477248681278	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.076847074322099
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Oscillibacter	Oscillibacter			0.020976087260523	-2.377184136137638	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.041952174521046	0.0
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Clostridia;f__Gracilibacteraceae;g__Lutispora	Lutispora			0.0093227054491213	-1.518304032362718	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0186454108982426	0.0
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Planococcaceae;g__Lysinibacillus	Lysinibacillus			0.12352584720085764	-4.683986616786515	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.2470516944017153	0.0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Prevotellaceae;__	Uncl. Prevotellaceae			0.0	0.0	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Brevibacillales;f__Brevibacillaceae;g__Brevibacillus	Brevibacillus			0.9452971554024635	1.7858392506153375	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.41952174521046	1.471072565594467
+d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__Ilumatobacteraceae;__	Uncl. Ilumatobacteraceae			0.0439126138983423	3.2902065646023235	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0878252277966846
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Azospirillales;f__uncultured;g__uncultured	Uncl. Azospirillales			0.8355156206566078	1.5543479893257228	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.41952174521046	1.2515094961027555
+d__Bacteria;p__Actinobacteriota;c__Coriobacteriia;o__OPB41;f__OPB41;g__OPB41	OPB41			0.0540630433601957	2.4933543808469913	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0988033812712701
+d__Bacteria;p__Methylomirabilota;c__Methylomirabilia;o__Rokubacteriales;f__WX65;g__WX65	WX65			1.2167010787487824	0.3416861252899933	Disease_Soil	Disease_Soil_vs_Healthy_Soil	1.0721111266489536	1.3612910308486112
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Staphylococcales;f__Staphylococcaceae;g__Staphylococcus	Staphylococcus			0.0	0.0	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces	Streptomyces			0.7831072577261922	-7.3003200820049114	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	1.5662145154523843	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Pectobacteriaceae;g__Dickeya	Dickeya			0.0	0.0	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Gemmatales;f__Gemmataceae;g__Telmatocola	Telmatocola			0.02563743998508365	-2.615295753035583	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0512748799701673	0.0
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Caldicoprobacterales;f__Caldicoprobacteraceae;g__Caldicoprobacter	Caldicoprobacter			0.1584859926350627	-5.031095126808732	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.3169719852701254	0.0
+d__Bacteria;p__Myxococcota;c__Myxococcia;o__Myxococcales;f__Myxococcaceae;g__Hyalangium	Hyalangium			0.021128582936439003	1.1518389550971513	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0329344604237567
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Hyphomicrobiaceae;__	Uncl. Hyphomicrobiaceae			0.08150842704665966	3.0826337417231953	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.153694148644198
+d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__Elev-16S-573;f__Elev-16S-573;g__Elev-16S-573	Elev-16S-573			0.00466135272456065	-0.9502971058077935	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0
+d__Bacteria;p__Gemmatimonadota;c__BD2-11_terrestrial_group;o__BD2-11_terrestrial_group;f__BD2-11_terrestrial_group;g__BD2-11_terrestrial_group	BD2-11_terrestrial_group			0.020976087260523	-2.377184136137638	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.041952174521046	0.0
+d__Bacteria;p__Planctomycetota;c__Planctomycetes;o__Isosphaerales;f__Isosphaeraceae;__	Uncl. Isosphaeraceae			0.00466135272456065	-0.9502971058077935	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0
+d__Bacteria;p__Chloroflexi;c__Anaerolineae;o__SBR1031;f__A4b;g__A4b	A4b			0.05360555633244765	-3.551037451563171	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.1072111126648953	0.0
+d__Bacteria;p__Firmicutes;c__Clostridia;o__Thermincolales;f__Thermincolaceae;g__Thermincola	Thermincola			0.013984058173682	-1.9247884265649549	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.027968116347364	0.0
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Micromonosporales;f__Micromonosporaceae;g__uncultured	Uncl. Micromonosporaceae			0.01097815347458555	1.6761006919339598	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0219563069491711
+d__Bacteria;p__Fibrobacterota;c__Fibrobacteria;o__Fibrobacterales;f__Fibrobacterales;g__BBMC-4	BBMC-4			0.10021908357805435	-4.395324484750958	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.2004381671561087	0.0
+d__Bacteria;p__Bdellovibrionota;c__Bdellovibrionia;o__Bdellovibrionales;f__Bdellovibrionaceae;g__Bdellovibrio	Bdellovibrio			0.01097815347458555	1.6761006919339598	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0219563069491711
+d__Bacteria;p__Entotheonellaeota;c__Entotheonellia;o__Entotheonellales;f__Entotheonellaceae;g__Entotheonellaceae	Entotheonellaceae			0.006992029086841	-1.2620757876804627	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.013984058173682	0.0
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Tistrellales;f__Geminicoccaceae;g__Candidatus_Alysiosphaera	Candidatus_Alysiosphaera			0.111872465389456	-4.546863172531802	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.223744930778912	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;__	Uncl. Burkholderiaceae			0.01097815347458555	1.6761006919339598	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0219563069491711
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Thermoactinomycetales;f__Thermoactinomycetaceae;g__Laceyella	Laceyella			0.034960145434205	-2.9985618338016153	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.06992029086841	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Comamonadaceae;__	Uncl. Comamonadaceae			0.620744395155761	-0.5355715506700659	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.7364937304805854	0.5049950598309364
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Corynebacteriales;f__Mycobacteriaceae;g__Mycobacterium	Mycobacterium			0.02195630694917115	2.430622858868888	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0439126138983423
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Caulobacterales;f__Caulobacteraceae;__	Uncl. Caulobacteraceae			0.01097815347458555	1.6761006919339598	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0219563069491711
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Erwiniaceae;__	Uncl. Erwiniaceae			0.0	0.0	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0
+d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Spirochaetales;f__Spirochaetaceae;__	Uncl. Spirochaetaceae			0.00466135272456065	-0.9502971058077935	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0
+d__Bacteria;p__Chloroflexi;c__Anaerolineae;o__Ardenticatenales;f__uncultured;g__uncultured	Uncl. Ardenticatenales			0.01165338181140165	-1.7358151759224896	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0233067636228033	0.0
+d__Bacteria;p__WPS-2;c__WPS-2;o__WPS-2;f__WPS-2;g__WPS-2	WPS-2			0.06992029086841	-3.9053565006700945	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.13984058173682	0.0
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Sphingomonas	Sphingomonas			0.1794620798955857	-5.205252364997901	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.3589241597911714	0.0
+d__Bacteria;p__Bacteroidota;c__Kryptonia;o__Kryptoniales;f__BSV26;g__BSV26	BSV26			0.0372908217964853	-3.0803445951313058	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0745816435929706	0.0
+d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Beijerinckiaceae;__	Uncl. Beijerinckiaceae			0.0023306763622803	-0.5520182193640907	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0046613527245606	0.0
+d__Bacteria;p__Acidobacteriota;c__Acidobacteriae;__;__;__	Uncl. Acidobacteriae			0.03262946907192465	-2.9118629340322886	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0652589381438493	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Sutterellaceae;g__uncultured	Uncl. Sutterellaceae			0.2524975299154682	5.686486687976241	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.5049950598309364
+d__Bacteria;p__Acidobacteriota;c__Acidobacteriae;o__Subgroup_12;f__Subgroup_12;g__Subgroup_12	Subgroup_12			0.06992029086841	-3.9053565006700945	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.13984058173682	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__SN8	SN8			0.0	0.0	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0
+d__Bacteria;p__Bdellovibrionota;__;__;__;__	Uncl. Bdellovibrionota			0.00466135272456065	-0.9502971058077935	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0093227054491213	0.0
+d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Propionibacteriales;__;__	Uncl. Propionibacteriales			0.08301137939620784	2.196964094022759	Disease_Soil	Disease_Soil_vs_Healthy_Soil	0.0233067636228033	0.1427159951696124
+d__Bacteria;p__Firmicutes;c__Negativicutes;o__Veillonellales-Selenomonadales;f__Selenomonadaceae;g__Propionispira	Propionispira			0.0	0.0	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0	0.0
+d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__uncultured;g__uncultured	Uncl. Microtrichales			0.006992029086841	-1.2620757876804627	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.013984058173682	0.0
+d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Nitrosomonadaceae;g__IS-44	IS-44			0.01165338181140165	-1.7358151759224896	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0233067636228033	0.0
+d__Bacteria;p__Chloroflexi;c__Chloroflexia;o__Chloroflexales;f__Chloroflexaceae;g__Chloronema	Chloronema			0.0093227054491213	-1.518304032362718	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	0.0186454108982426	0.0
+d__Bacteria;p__Actinobacteriota;c__Acidimicrobiia;o__Microtrichales;f__Ilumatobacteraceae;g__Ilumatobacter	Ilumatobacter			0.5337248869621964	-6.751476808417095	Healthy_Soil	Disease_Soil_vs_Healthy_Soil	1.0674497739243929	0.0

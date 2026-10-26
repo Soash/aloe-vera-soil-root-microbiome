@@ -1,0 +1,5 @@
+Sample_ID	Health_Status	Sample_Type	input	filtered	percentage of input passed filter	denoised	merged	percentage of input merged	non-chimeric	percentage of input non-chimeric	bacterial-reads	organelle-reads	organelle-contamination-%	bacterial-yield-%
+Healthy_Root	Healthy	Root	435519.0	127037.0	29.17	121790.0	116194.0	26.68	1413.0	0.32	64.0	1349.0	95.47	0.01
+Healthy_Soil	Healthy	Soil	511028.0	150050.0	29.36	99698.0	26732.0	5.23	21453.0	4.2	21453.0	0.0	0.0	4.2
+Disease_Root	Disease	Root	390591.0	110700.0	28.34	105278.0	95549.0	24.46	3133.0	0.8	1386.0	1747.0	55.76	0.35
+Disease_Soil	Disease	Soil	426718.0	75132.0	17.61	46122.0	10556.0	2.47	9109.0	2.13	9109.0	0.0	0.0	2.13

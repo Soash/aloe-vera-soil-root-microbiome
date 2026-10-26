@@ -1,0 +1,10 @@
+Rank,ASV_ID,Read_Count,Relative_Abundance (%),Taxonomic_Rank,Taxon_Name,Culture_Status,Full_Taxonomy
+1,f8626d6c0bf12ed56b2ddc9e59156cce,21,32.8125,Family,Sphingomonadaceae,Cultured,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae
+2,9f812c2ac9001b6b17366ec1f3a2559a,10,15.625,Genus,Azovibrio,Cultured,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Rhodocyclaceae;g__Azovibrio;s__
+3,f8fc7f26c0b2beb230fe79822f26432a,8,12.5,Genus,Lawsonella,Cultured,d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Corynebacteriales;f__Corynebacteriaceae;g__Lawsonella;s__
+4,d05c8f5c7ed9d347a113aaff85ff1e4b,8,12.5,Genus,Acidibacter,Cultured,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Gammaproteobacteria_Incertae_Sedis;f__Unknown_Family;g__Acidibacter;s__
+5,d733e45a68d85ba211467691b5f8d3fd,5,7.8125,Genus,Cutibacterium,Cultured,d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Propionibacteriales;f__Propionibacteriaceae;g__Cutibacterium;s__
+6,e09f970731d1c0a6f8f558bcefa39493,4,6.25,Genus,Acinetobacter,Cultured,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__
+7,07c7f78015780e6f6fd98155a57d2f41,3,4.6875,Domain,Bacteria,Cultured,d__Bacteria
+8,03c3ce28f63f29baeac20986ef2db1c4,3,4.6875,Genus,P3OB-42,Cultured,d__Bacteria;p__Myxococcota;c__Myxococcia;o__Myxococcales;f__Myxococcaceae;g__P3OB-42;s__
+9,09d308d9cfe00e39bd6e0e18dd612c0c,2,3.125,Genus,PLTA13,Cultured,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__PLTA13;f__PLTA13;g__PLTA13;s__

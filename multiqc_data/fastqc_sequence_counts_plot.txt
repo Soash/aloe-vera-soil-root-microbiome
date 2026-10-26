@@ -1,0 +1,9 @@
+Sample	Unique Reads	Duplicate Reads
+Disease_Root_R1_001	10970.0	379621.0
+Disease_Root_R2_001	34937.0	355654.0
+Disease_Soil_R1_001	39651.0	387067.0
+Disease_Soil_R2_001	102412.0	324306.0
+Healthy_Root_R1_001	10326.0	425193.0
+Healthy_Root_R2_001	37583.0	397936.0
+Healthy_Soil_R1_001	41442.0	469586.0
+Healthy_Soil_R2_001	95691.0	415337.0

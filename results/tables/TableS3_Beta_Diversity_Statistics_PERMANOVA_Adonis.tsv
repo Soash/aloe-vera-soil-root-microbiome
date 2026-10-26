@@ -1,0 +1,25 @@
+Metric	Test	Factor	Df	SumsOfSqs	R2	F_statistic	p_value
+bray_curtis	Adonis (Multivariate)	Health_Status	1	0.5	0.333333333333333	1.0	1.0
+bray_curtis	Adonis (Multivariate)	Sample_Type	1	0.5	0.333333333333333	1.0	1.0
+bray_curtis	Adonis (Multivariate)	Residuals	1	0.5	0.333333333333333		
+bray_curtis	Adonis (Multivariate)	Total	3	1.5	1.0		
+bray_curtis	PERMANOVA (Univariate)	Health_Status	1			1.0	1.0
+bray_curtis	PERMANOVA (Univariate)	Sample_Type	1			1.0	1.0
+jaccard	Adonis (Multivariate)	Health_Status	1	0.5	0.333333333333333	1.0	1.0
+jaccard	Adonis (Multivariate)	Sample_Type	1	0.5	0.333333333333333	1.0	1.0
+jaccard	Adonis (Multivariate)	Residuals	1	0.5	0.333333333333333		
+jaccard	Adonis (Multivariate)	Total	3	1.5	1.0		
+jaccard	PERMANOVA (Univariate)	Health_Status	1			1.0	1.0
+jaccard	PERMANOVA (Univariate)	Sample_Type	1			1.0	1.0
+weighted_unifrac	Adonis (Multivariate)	Health_Status	1	0.0528717359427746	0.263150856295749	0.812431757048771	0.666666666666667
+weighted_unifrac	Adonis (Multivariate)	Sample_Type	1	0.0829678626127326	0.412943961499572	1.27489149351932	0.333333333333333
+weighted_unifrac	Adonis (Multivariate)	Residuals	1	0.0650783717943718	0.323905182204679		
+weighted_unifrac	Adonis (Multivariate)	Total	3	0.200917970349879	1.0		
+weighted_unifrac	PERMANOVA (Univariate)	Health_Status	1			0.71426	1.0
+weighted_unifrac	PERMANOVA (Univariate)	Sample_Type	1			1.40683	0.308
+unweighted_unifrac	Adonis (Multivariate)	Health_Status	1	0.265920744840247	0.26736095408103	0.964706731100652	0.666666666666667
+unweighted_unifrac	Adonis (Multivariate)	Sample_Type	1	0.453043185292885	0.455496837347466	1.64354913564148	0.333333333333333
+unweighted_unifrac	Adonis (Multivariate)	Residuals	1	0.275649310062192	0.277142208571504		
+unweighted_unifrac	Adonis (Multivariate)	Total	3	0.994613240195323	1.0		
+unweighted_unifrac	PERMANOVA (Univariate)	Health_Status	1			0.729857	1.0
+unweighted_unifrac	PERMANOVA (Univariate)	Sample_Type	1			1.673073	0.333

@@ -1,0 +1,5 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+Disease_Root	/home/bionanosense/soash/aloevera/data/Disease_Root_R1_001.fastq.gz	/home/bionanosense/soash/aloevera/data/Disease_Root_R2_001.fastq.gz
+Disease_Soil	/home/bionanosense/soash/aloevera/data/Disease_Soil_R1_001.fastq.gz	/home/bionanosense/soash/aloevera/data/Disease_Soil_R2_001.fastq.gz
+Healthy_Root	/home/bionanosense/soash/aloevera/data/Healthy_Root_R1_001.fastq.gz	/home/bionanosense/soash/aloevera/data/Healthy_Root_R2_001.fastq.gz
+Healthy_Soil	/home/bionanosense/soash/aloevera/data/Healthy_Soil_R1_001.fastq.gz	/home/bionanosense/soash/aloevera/data/Healthy_Soil_R2_001.fastq.gz

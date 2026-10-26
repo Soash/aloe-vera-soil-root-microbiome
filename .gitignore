@@ -1,0 +1,38 @@
+# ==============================================================================
+# Git Ignore Configuration - aloe-vera-soft-rot-microbiome
+# ==============================================================================
+
+# Confidential Raw High-Throughput Sequencing Data
+data/*.fastq.gz
+data/*.fastq
+data/*.fq.gz
+data/*.fq
+*.fastq.gz
+
+# Bulky External Classifiers & Raw Demultiplexed Artifacts (>100 MB GitHub Limit)
+paired-end-demux.qza
+silva-*-nb-classifier.qza
+silva-138-99-nb-classifier.qza
+
+# Confidential Manuscript Drafts & Presentation Files
+*.docx
+*.doc
+*.pptx
+*.ppt
+
+# Python, Jupyter & R Execution Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Ruserdata
+
+# Operating System & IDE Cache Files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+.vscode/
+.idea/
