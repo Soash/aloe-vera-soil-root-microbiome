@@ -171,18 +171,35 @@ Alpha Diversity Trajectories Under Soft-Rot Pathogenesis:
 
 ## 5. Visual Highlights & Diagnostic Gallery
 
-All figures were generated using publication formatting standards (300 DPI high-resolution PNG and vector PDF) located in `results/figures/`:
+All figures are generated at publication standards (300 DPI high-resolution PNG and vector PDF) located in [`results/figures/`](results/figures/):
 
-| Figure ID | Visual Title & Diagnostic Scope | Corresponding Files |
-| :---: | :--- | :--- |
-| **Figure 1** | **DADA2 Quality Control & Yield Tracking:** Read volume progression across initial filtering, denoising, merging, and non-chimeric read recovery. | [PNG](results/figures/Fig1_QC_and_Denoising_Tracking.png) \| [PDF](results/figures/Fig1_QC_and_Denoising_Tracking.pdf) |
-| **Figure 2** | **Multi-Metric Alpha Diversity & Rarefaction:** Rarefaction saturation curves and comparative boxplots for Shannon, Faith's PD, and Pielou's Evenness. | [PNG](results/figures/Fig2_Alpha_Diversity_and_Rarefaction.png) \| [PDF](results/figures/Fig2_Alpha_Diversity_and_Rarefaction.pdf) |
-| **Figure 3** | **2×2 Beta Diversity PCoA Grid:** Principal Coordinates Analysis across Bray-Curtis, Jaccard, Weighted UniFrac, and Unweighted UniFrac metrics. | [PNG](results/figures/Fig3_Beta_Diversity_PCoA_Grid.png) \| [PDF](results/figures/Fig3_Beta_Diversity_PCoA_Grid.pdf) |
-| **Figure 4** | **Pairwise Distance Matrix Heatmaps:** Heatmap matrices displaying exact pairwise distances among root and soil conditions. | [PNG](results/figures/Fig4_Beta_Distance_Heatmaps.png) \| [PDF](results/figures/Fig4_Beta_Distance_Heatmaps.pdf) |
-| **Figure 5** | **Taxonomic Composition Stacked Barplots:** Relative abundance profiles across major Phyla and dominant Genera. | [PNG](results/figures/Fig5_Taxonomic_Composition_Barplots.png) \| [PDF](results/figures/Fig5_Taxonomic_Composition_Barplots.pdf) |
-| **Figure 6** | **Top 25 Bacterial Genera Clustered Heatmap:** Hierarchical clustering and Z-score normalized distribution of core bacterial genera. | [PNG](results/figures/Fig6_Top_Genera_Clustered_Heatmap.png) \| [PDF](results/figures/Fig6_Top_Genera_Clustered_Heatmap.pdf) |
-| **Figure 7** | **Host Organelle vs. Bacterial Biomass Fraction:** Quantitative tracking of host chloroplast/mitochondria vs. true bacterial reads across roots and soils. | [PNG](results/figures/Fig7_Host_Organelle_vs_Bacteria.png) \| [PDF](results/figures/Fig7_Host_Organelle_vs_Bacteria.pdf) |
-| **Figure 8** | **Differential Taxa Enrichment & Niche Specificity:** Log2 fold-change forest plot of key biomarkers and Venn representation of zero niche sharing. | [PNG](results/figures/Fig8_Differential_Taxa_Enrichment.png) \| [PDF](results/figures/Fig8_Differential_Taxa_Enrichment.pdf) |
+<p align="center">
+  <img src="results/figures/Fig1_QC_and_Denoising_Tracking.png" alt="Figure 1: Quality Control and DADA2 Yield Progression" width="95%"/>
+</p>
+<p align="center"><b>Figure 1: DADA2 Quality Control & Yield Tracking.</b> Read volume progression across initial quality filtering, denoising, paired merging, and non-chimeric read recovery across root and soil samples.</p>
+
+<p align="center">
+  <img src="results/figures/Fig2_Alpha_Diversity_and_Rarefaction.png" alt="Figure 2: Multi-Metric Alpha Diversity and Rarefaction Saturation" width="95%"/>
+</p>
+<p align="center"><b>Figure 2: Multi-Metric Alpha Diversity & Rarefaction Saturation.</b> Sequencing depth saturation curves and comparative diversity distributions (Observed ASV richness, Shannon entropy, Faith's phylogenetic diversity, and Pielou's Evenness).</p>
+
+<p align="center">
+  <img src="results/figures/Fig3_Beta_Diversity_PCoA_Grid.png" alt="Figure 3: Beta Diversity PCoA Grid" width="48%"/>
+  <img src="results/figures/Fig4_Beta_Distance_Heatmaps.png" alt="Figure 4: Pairwise Distance Matrix Heatmaps" width="48%"/>
+</p>
+<p align="center"><b>Figure 3 & 4: Beta Diversity Ordination & Ecological Distance Clustering.</b> (Left) 2×2 Principal Coordinates Analysis (PCoA) across Bray-Curtis, Jaccard, Weighted UniFrac, and Unweighted UniFrac. (Right) Pairwise distance matrix heatmaps demonstrating complete niche separation between compartments.</p>
+
+<p align="center">
+  <img src="results/figures/Fig5_Taxonomic_Composition_Barplots.png" alt="Figure 5: Taxonomic Composition Barplots" width="48%"/>
+  <img src="results/figures/Fig6_Top_Genera_Clustered_Heatmap.png" alt="Figure 6: Top 25 Genera Clustered Heatmap" width="48%"/>
+</p>
+<p align="center"><b>Figure 5 & 6: Taxonomic Remodeling & Core Bacterial Genera.</b> (Left) Phylum- and Genus-level relative abundance distributions. (Right) Hierarchically clustered heatmap of top 25 bacterial genera showing dominant soft-rot dysbiosis.</p>
+
+<p align="center">
+  <img src="results/figures/Fig7_Host_Organelle_vs_Bacteria.png" alt="Figure 7: Host Organelle vs Bacterial Biomass Fraction" width="48%"/>
+  <img src="results/figures/Fig8_Differential_Taxa_Enrichment.png" alt="Figure 8: Differential Taxa Enrichment & Niche Specificity" width="48%"/>
+</p>
+<p align="center"><b>Figure 7 & 8: Host Organelle Gating & Differential Biomarker Discovery.</b> (Left) 95.5% host organelle gating in healthy roots vs. ~9.8-fold bacterial surge in disease. (Right) Log2FC effect sizes of enriched necrotrophs (*Enterobacteriaceae*, *Dickeya*, *Kosakonia*) and zero cross-niche ASV sharing.</p>
 
 ---
 
@@ -290,7 +307,33 @@ qiime diversity core-metrics-phylogenetic \
   --p-sampling-depth 64 \
   --m-metadata-file metadata.tsv \
   --output-dir core-metrics-results-depth64
+
+# 8. High-depth phylogenetic diversity metrics (Depth = 1,386)
+qiime diversity core-metrics-phylogenetic \
+  --i-phylogeny rooted-tree-no-organelles.qza \
+  --i-table table-no-organelles.qza \
+  --p-sampling-depth 1386 \
+  --m-metadata-file metadata.tsv \
+  --output-dir core-metrics-results-depth1386
 ```
+
+### Biological Rationale for Dual Rarefaction Depths (`depth64` vs. `depth1386`)
+
+After in silico filtering of plant organelle contamination (chloroplasts and mitochondria), the clean bacterial sequence yields across the four microhabitats are:
+- **`Healthy_Root`:** **64 bacterial reads** (after removing 95.47% host organelle DNA)
+- **`Disease_Root`:** **1,386 bacterial reads** (after removing 55.76% host organelle DNA)
+- **`Disease_Soil`:** **9,109 bacterial reads** (0.0% organelle contamination)
+- **`Healthy_Soil`:** **21,453 bacterial reads** (0.0% organelle contamination)
+
+Because diversity modeling requires uniform random subsampling (rarefaction) across samples, two distinct depths were benchmarked:
+
+1. **`core-metrics-results-depth64` (Sampling Depth = 64 — Retains All 4 Samples):**
+   - Rarefying at $n=64$ represents the **lowest common denominator depth** that permits `Healthy_Root` to remain in the analysis.
+   - **Purpose:** Enables global 4-sample multi-compartment ordination (PCoA) and non-parametric PERMANOVA/Adonis tests across both microhabitat compartments (Root vs. Soil) and health conditions (Healthy vs. Disease).
+2. **`core-metrics-results-depth1386` (Sampling Depth = 1,386 — High-Resolution Microbial Profiling):**
+   - Rarefying at $n=1,386$ captures the full depth of `Disease_Root` and explores the rhizosphere soil at $>20\times$ higher coverage ($1,386 \text{ vs. } 64$ reads).
+   - `Healthy_Root` is automatically dropped at this depth due to insufficient non-organelle reads.
+   - **Purpose:** Provides deep sequencing resolution to evaluate rare rhizosphere taxa, verify alpha rarefaction saturation curves, and analyze fine-scale community structure without downsampling distortion.
 
 ### 7.2 Downstream Python Visualization Suite Execution
 To generate all 8 publication figures, statistical tables, and executive summary reports:
