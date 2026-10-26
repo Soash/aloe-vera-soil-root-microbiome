@@ -6,20 +6,18 @@
 **Academic Supervisor:** Professor Dr. Gokul Chandra Biswas<sup>1</sup>  
 **Research Supervisor:** Dr. Md. Abdun Noor Muhammad Iftekhar Alam<sup>2</sup>  
 <sup>2</sup> *Plant Biotechnology Division, National Institute of Biotechnology, Savar, Dhaka, Bangladesh*  
-**Funding Agency:** *National Institute of Biotechnology, Bangladesh*  
-**Institutional Framework:** *Joint Collaborative Research Initiative between Shahjalal University of Science and Technology and National Institute of Biotechnology, Bangladesh*
+**Funding Agency:** *National Institute of Biotechnology, Bangladesh*
 
 [![Status: Manuscript in Preparation](https://img.shields.io/badge/Status-Manuscript%20in%20Preparation-orange.svg)](#confidentiality--academic-evaluation-notice)
 [![Host: Aloe vera](https://img.shields.io/badge/Host-Aloe%20vera%20(L.)%20Burm.f.-brightgreen.svg)](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=39702)
 [![Platform: Ubuntu Linux](https://img.shields.io/badge/Compute-Ubuntu%20Linux-blue.svg)](scripts/)
 [![Pipeline: QIIME 2 / DADA2 / SILVA 138](https://img.shields.io/badge/Pipeline-QIIME%202%20v2024.10%20%7C%20DADA2-purple.svg)](scripts/)
-[![Collaboration: SUST x NIB](https://img.shields.io/badge/Collaboration-SUST%20%C3%97%20NIB-navy.svg)](https://nib.gov.bd/)
 
 ---
 
 ## Confidentiality & Academic Evaluation Notice
 
-> **Important Notice:** This repository contains **unpublished research and ongoing manuscript preparations** conducted under a joint research collaboration between **Shahjalal University of Science and Technology** and the **National Institute of Biotechnology, Bangladesh** by Jobayer Hossain Rafi and Md Abu Sadat Soash.
+> **Important Notice:** This repository contains **unpublished research and ongoing manuscript preparations** by Jobayer Hossain Rafi and Md Abu Sadat Soash.
 > - **Author Contributions:** Experimental design, field sample acquisition, and wet-lab procedures were executed by **Jobayer Hossain Rafi**. High-throughput computational metagenomics, Linux Ubuntu environment pipeline deployment, raw read quality auditing, DADA2 amplicon denoising, in silico host organelle filtering, phylogenetic reconstruction, statistical diversity modeling, and the automated Python publication visualization suite were conceived and developed by **Md Abu Sadat Soash**.
 > - **Supervision & Institutional Guidance:** Academic supervision was provided by **Professor Dr. Gokul Chandra Biswas** (Shahjalal University of Science and Technology). Research supervision was provided by **Dr. Md. Abdun Noor Muhammad Iftekhar Alam** (Senior Scientific Officer, Plant Biotechnology Division, National Institute of Biotechnology, Bangladesh).
 > - **Purpose:** This repository serves as a verifiable, reproducible record of computational methodologies, analytical workflows, and statistical models for prospective academic review and graduate research evaluation.
@@ -355,9 +353,8 @@ python scripts/run_all.py
 - **Academic Supervisor:** [Professor Dr. Gokul Chandra Biswas](https://www.sust.edu/departments/geb/faculty/gcbiswas-geb@sust.edu) — *Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh*
 - **Research Supervisor:** [Dr. Md. Abdun Noor Muhammad Iftekhar Alam](https://nib.gov.bd/pages/officers/6922de2e933eb65569e18d7d) — *Senior Scientific Officer, Plant Biotechnology Division, National Institute of Biotechnology, Savar, Dhaka, Bangladesh*
 
-### Funding & Institutional Affiliation
+### Funding Agency
 - **Funding Agency:** [National Institute of Biotechnology, Bangladesh](https://nib.gov.bd/) (NIB)
-- **Project Framework:** Joint collaborative research initiative between the **Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh** and the **National Institute of Biotechnology, Bangladesh**.
 
 ### Inquiries & Academic Review
 For inquiries regarding the computational pipelines, analytical scripts, or collaborative evaluation:
