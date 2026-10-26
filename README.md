@@ -18,10 +18,8 @@
 ## Confidentiality & Academic Evaluation Notice
 
 > **Important Notice:** This repository contains **unpublished research and ongoing manuscript preparations** by Jobayer Hossain Rafi and Md Abu Sadat Soash.
-> - **Author Contributions:** Experimental design, field sample acquisition, and wet-lab procedures were executed by **Jobayer Hossain Rafi**. High-throughput computational metagenomics, Linux Ubuntu environment pipeline deployment, raw read quality auditing, DADA2 amplicon denoising, in silico host organelle filtering, phylogenetic reconstruction, statistical diversity modeling, and the automated Python publication visualization suite were conceived and developed by **Md Abu Sadat Soash**.
-> - **Supervision & Institutional Guidance:** Academic supervision was provided by **Professor Dr. Gokul Chandra Biswas** (Shahjalal University of Science and Technology). Research supervision was provided by **Dr. Md. Abdun Noor Muhammad Iftekhar Alam** (Senior Scientific Officer, Plant Biotechnology Division, National Institute of Biotechnology, Bangladesh).
-> - **Purpose:** This repository serves as a verifiable, reproducible record of computational methodologies, analytical workflows, and statistical models for prospective academic review and graduate research evaluation.
-> - **Data Protection:** Raw FASTQ sequencing reads (`data/*.fastq.gz`), high-dimensional demultiplexed archives, and unpublished manuscript drafts are restricted and excluded via `.gitignore` to maintain strict confidentiality prior to formal peer-reviewed publication.
+> - **Purpose:** This repository serves as a verifiable, documented record of computational methodologies, analytical workflows, and reproducible scripts for prospective academic review and graduate research evaluation.
+> - **Data Protection:** Raw high-throughput FASTQ sequencing reads (`data/*.fastq.gz`), bulky demultiplexed archives, and working manuscript drafts are restricted and excluded via `.gitignore` to maintain strict confidentiality prior to formal peer-reviewed publication.
 
 ---
 
@@ -343,25 +341,25 @@ python scripts/run_all.py
 
 ---
 
-## 8. Authorship, Supervision, Funding & Inquiries
+## 8. Authorship, Supervision & Correspondence
 
 ### Research Investigators
-- **Jobayer Hossain Rafi** — *Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh* (Sample collection, field acquisition, wet-lab bioassays, manuscript drafting)
-- **Md Abu Sadat Soash** — *Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh* (Computational metagenomics architecture, Linux Ubuntu workflow execution, QIIME 2 pipelines, organelle decontamination, statistical modeling, Python publication visualization suite)
+- **Jobayer Hossain Rafi** — *Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh*  
+  *Contributions:* Experimental design, field sample acquisition, wet-lab bioassays, and manuscript drafting.
+- **Md Abu Sadat Soash** — *Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh*  
+  *Contributions:* Computational metagenomics architecture, Linux Ubuntu environment pipeline deployment, DADA2 denoising, in silico host organelle filtering, phylogenetic reconstruction, diversity modeling, and the automated Python publication visualization suite.
 
 ### Supervision & Guidance
 - **Academic Supervisor:** [Professor Dr. Gokul Chandra Biswas](https://www.sust.edu/departments/geb/faculty/gcbiswas-geb@sust.edu) — *Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh*
 - **Research Supervisor:** [Dr. Md. Abdun Noor Muhammad Iftekhar Alam](https://nib.gov.bd/pages/officers/6922de2e933eb65569e18d7d) — *Senior Scientific Officer, Plant Biotechnology Division, National Institute of Biotechnology, Savar, Dhaka, Bangladesh*
 
-### Funding Agency
+### Funding
 - **Funding Agency:** [National Institute of Biotechnology, Bangladesh](https://nib.gov.bd/) (NIB)
 
-### Inquiries & Academic Review
-For inquiries regarding the computational pipelines, analytical scripts, or collaborative evaluation:
+### Correspondence & Academic Inquiries
+For inquiries regarding the computational workflows, analytical scripts, or collaborative evaluation:
 - **Email:** [mdabu13@student.sust.edu](mailto:mdabu13@student.sust.edu)
-- **Academic Department:** [Department of Genetic Engineering and Biotechnology](https://www.sust.edu/departments/geb)
-- **Academic Institution:** [Shahjalal University of Science and Technology](https://www.sust.edu/)
-- **Research Partner Institution:** [National Institute of Biotechnology, Bangladesh](https://nib.gov.bd/)
+- **Institution:** [Shahjalal University of Science and Technology](https://www.sust.edu/)
 
 ---
 
