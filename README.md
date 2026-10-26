@@ -189,7 +189,7 @@ All figures were generated using publication formatting standards (300 DPI high-
 ## 6. Repository Organization
 
 ```text
-aloe-vera-soft-rot-microbiome/
+aloe-vera-soil-root-microbiome/
 ├── data/                                             # Raw sequencing manifests & metadata
 │   ├── metadata.tsv                                  # Sample metadata mapping conditions and compartments
 │   ├── manifest.tsv                                  # Paired-end file path manifest for QIIME 2
