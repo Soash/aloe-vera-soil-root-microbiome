@@ -1,4 +1,4 @@
-# Remodeling of the *Aloe vera* Root Endosphere and Rhizosphere Microbiome Under Bacterial Soft-Rot Pathogenesis: Niche Stratification, Host Organelle Exclusion, and Biomarker Discovery
+# Microbiome Dysbiosis in the Root Endosphere and Rhizosphere of *Aloe vera* Under Bacterial Soft-Rot Pathogenesis
 
 **Author(s):** Jobayer Hossain Rafi<sup>1</sup>, Md Abu Sadat Soash<sup>1</sup>  
 <sup>1</sup> *Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh*  
@@ -189,7 +189,7 @@ All figures are generated at publication standards (300 DPI high-resolution PNG 
   <img src="results/figures/Fig5_Taxonomic_Composition_Barplots.png" alt="Figure 5: Taxonomic Composition Barplots" width="48%"/>
   <img src="results/figures/Fig6_Top_Genera_Clustered_Heatmap.png" alt="Figure 6: Top 25 Genera Clustered Heatmap" width="48%"/>
 </p>
-<p align="center"><b>Figure 5 & 6: Taxonomic Remodeling & Core Bacterial Genera.</b> (Left) Phylum- and Genus-level relative abundance distributions. (Right) Hierarchically clustered heatmap of top 25 bacterial genera showing dominant soft-rot dysbiosis.</p>
+<p align="center"><b>Figure 5 & 6: Taxonomic Restructuring & Core Bacterial Genera.</b> (Left) Phylum- and Genus-level relative abundance distributions. (Right) Hierarchically clustered heatmap of top 25 bacterial genera showing dominant soft-rot dysbiosis.</p>
 
 <p align="center">
   <img src="results/figures/Fig7_Host_Organelle_vs_Bacteria.png" alt="Figure 7: Host Organelle vs Bacterial Biomass Fraction" width="48%"/>
